@@ -30,7 +30,7 @@ export default function CVHome() {
     cvHref: "/cv/Jiaxi_Yu_CV.pdf",
     about: [
       "My academic journey is driven by a mission to to use computational tools to build a more resilient and sustainable planet. My foundational background in Landscape Architecture and Agronomy provided me with a inquisitiveness for Earth's complex systems, inspiring me to turn to technology to address environmental challenges at scale.",
-      "At The University of Osaka, my master's research is focused on the cutting edge of Geospatial Artificial Intelligence (GeoAI). I develop and benchmark novel deep learning models—from exploring attention mechanisms and semi-supervised learning to fusing multi-modal data like satellite and social media imagery—to deliver faster, more accurate post-disaster assessments.",
+      "At The University of Osaka, I was supervised by Prof. Tomohiro Fukuda. My master's research is focused on the cutting edge of Geospatial Artificial Intelligence (GeoAI). I develop and benchmark novel deep learning models—from exploring attention mechanisms and semi-supervised learning to fusing multi-modal data like satellite and social media imagery—to deliver faster, more accurate post-disaster assessments.",
       "I am now seeking a PhD position where I can continue this journey. My goal is to advance the frontiers of GeoAI, building robust and interpretable models which is not only able to predict environmental events but also help us mitigate their impacts. I hope to contribute to a research group dedicated to solving real-world climate and disaster-related problems."
     ],
     interests: [
