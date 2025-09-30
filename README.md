@@ -22,7 +22,7 @@ This is the source code for the personal academic homepage of Jiaxi Yu, a prospe
 
 ### 🚀 Live Demo
 
-**https://jiaxi-yu-portfolio.vercel.app/**
+**https://jiaxi-yu-navigation-page.vercel.app/**
 
 ---
 
