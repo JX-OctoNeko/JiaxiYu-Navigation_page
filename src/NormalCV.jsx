@@ -20,7 +20,7 @@ export default function CVHome() {
   const data = {
     name: "Jiaxi Yu",
     tagline: "Prospective PhD Student • Civil & Environmental Engineering",
-    avatar: "/images/avatar.png",
+    avatar: "/images/avatar.JPG",
     location: "Wuhan, Hubei, China",
     email: "YUJiaxiYU@outlook.com",
     scholar: "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=pHPYRCMAAAAJ",
