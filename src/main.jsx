@@ -1,5 +1,6 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
+import { SpeedInsights } from '@vercel/speed-insights/react'
 
 import './index.css'
 import CVHomeWrapper from './Combine'
@@ -9,5 +10,6 @@ import CVHomeWrapper from './Combine'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <CVHomeWrapper />
+    <SpeedInsights />
   </StrictMode>,
 )
